@@ -1,3 +1,3 @@
-module github.com/titushcheng/cmd
+module github.com/tituscheng/cmd
 
 go 1.18
